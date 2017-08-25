@@ -1,0 +1,20 @@
+{
+  "name": "contatos-api",
+  "version": "1.0.0",
+  "description": "Api de contatos para fins de testes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "gabriel.matos@fpf.br",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "faker": "^4.1.0",
+    "jsonschema": "^1.1.1",
+    "underscore-node": "^0.1.2"
+  }
+}

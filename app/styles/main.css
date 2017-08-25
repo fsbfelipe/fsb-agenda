@@ -1,0 +1,45 @@
+.footer {
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    color: white;
+    bottom: 0px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: black;
+    
+}
+
+.navbar-brand{
+    color: white !important;
+} 
+
+.nav li a{
+    color: white !important;
+}
+
+li.active a{
+    color: black !important;
+}
+
+
+.clicavel {
+    cursor: pointer;
+}
+
+.miniatura{
+    width: 40px;
+    height: 40px;
+    border: 1px gray solid;
+}
+
+td{
+    vertical-align: middle !important;
+}
+
+.conteudo {
+    margin-bottom: 40px;
+}
